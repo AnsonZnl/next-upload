@@ -3,3 +3,4 @@
 //     webkitdirectory?: string;
 //   }
 // }
+declare module "multiparty";

@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "目录结构树生成器",
-  description: "目录结构树生成器 | One click automatic directory structure generation ",
+  title: "文件解压助手",
+  description: "文件解压助手",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
